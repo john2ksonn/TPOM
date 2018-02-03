@@ -1,1 +1,1 @@
-<input type="button" onclick="location.href='betabuilds';" value="Download Beta Version" />
+<input type="button" onclick="location.href='betabuilds';" value="Betabuilds" />
