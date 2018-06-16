@@ -1,5 +1,9 @@
-# [Alpha releases](alphareleases)
+<head>
+<link rel="shortcut icon" type="image/png" href="favicon.png"/>
+</head>
 
-![Mainscreen](https://raw.githubusercontent.com/john2ksonn/TPOM/master/docs/mainscreen.png)
+# [<img src="http://icons.iconarchive.com/icons/rafiqul-hassan/blogger/512/Arrow-Download-4-icon.png" alt="Donwload" style="width: 100px;"/>](alphareleases)
+# [Alphareleases](alphareleases)
 
-<!--iframe width="560" height="315" src="https://www.youtube.com/embed/IojBxOQDFXw?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe-->
+# [![Mainscreen](mainscreen.png)](alphareleases)
+

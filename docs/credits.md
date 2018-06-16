@@ -4,3 +4,4 @@
 * ### Johannes Sonn [[john2ksonn]](https://github.com/john2ksonn)
 * ### Lukas Rischa [[TheLuckyGamer]](https://github.com/TheLuckyGamer)
 
+![Coin](coin.gif)
