@@ -1,5 +1,6 @@
 # Two Players. One Map.
 This is the public repository of a school project (Seminarkurs) with the goal of creating an mobile Android game.
+The game is a multiplayer jump 'n' run game and is named `Two Players. One Map.`
 
 ## Contributors
 * [TheLuckyGamer](https://github.com/TheLuckyGamer)
